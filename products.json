@@ -1,0 +1,32 @@
+[
+    {
+        "name": "John",
+        "surname": "Doe",
+        "dob": "11/11/2011",
+        "gender": "male"
+    },       
+    {
+        "name": "Maria",
+        "surname": "Green",
+        "dob": "04/11/1921",
+        "gender": "female"
+    },
+    {
+        "name": "Kelly",
+        "surname": "Adams",
+        "dob": "04/08/2001",
+        "gender": "female"
+    },
+    {
+        "name": "Lionel",
+        "surname": "Messi",
+        "dob": "13/09/1932",
+        "gender": "male"
+    },
+    {
+        "name": "Cristiano",
+        "surname": "Ronaldo",
+        "dob": "13/10/1932",
+        "gender": "male"
+    }
+]
